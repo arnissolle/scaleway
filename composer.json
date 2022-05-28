@@ -1,0 +1,28 @@
+{
+    "name": "arnissolle/scaleway",
+    "description": "Scaleway API client + CLI",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Arnissolle\\Scaleway\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Pierre Arnissolle",
+            "email": "pierre@arnissolle.com"
+        }
+    ],
+    "require": {
+        "php": "^8.0"
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true,
+    "funding": [
+        {
+            "type": "github",
+            "url": "https://github.com/sponsors/arnissolle"
+        }
+    ]
+}
