@@ -4,5 +4,4 @@ namespace Arnissolle\Scaleway;
 
 class Scaleway
 {
-
 }
